@@ -13,13 +13,13 @@ This package has been tested under:
 3. Windows 10 Home Edition 17134.165, using MATLAB R2017a.
 
 ### USAGE
-To start using the package, call
+To start using the package inside a Matlab environment, call
 	
 ```matlab
-MR_startup.m
+MR_startup
 ```
 
-which will add all modules into MATLAB paths so that user can call the pipeline and individual functions in the workspace.
+which will add all modules into MATLAB paths so that user can call the pipeline and individual functions in the Matlab workspace.
 
 ### EXAMPLES
 This package includes two examples with anonymized real subject data --- one for sagittal breast MRI and the other for axial breast MRI --- to illustrate basic usage.
