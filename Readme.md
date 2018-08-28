@@ -14,7 +14,11 @@ This package has been tested under:
 
 ### USAGE
 To start using the package, call
-	>> MR_startup.m
+	
+```matlab
+MR_startup.m
+```
+
 which will add all modules into MATLAB paths so that user can call the pipeline and individual functions in the workspace.
 
 ### EXAMPLES
