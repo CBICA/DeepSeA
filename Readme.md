@@ -2,7 +2,7 @@
 ### ACKNOWLEDGEMENT
 If you use this program in your research and/or publication(s), you must cite the paper below:
 	
-- D. Wei, S. Weinstein, M.-K. Hsieh, L. Pantalone, M. Schnall, and D. Kontos, "Three-dimensional whole breast segmentation in sagittal MR images with dense depth field modeling and localized self-adaptation," in Medical Imaging: Image Processing, ser. Proc. SPIE, vol. 10133, 2017, pp. 1013314.
+- Wei, D., Weinstein, S., Hsieh, M. K., Pantalone, L., & Kontos, D. (2018). Three-Dimensional Whole Breast Segmentation in Sagittal and Axial Breast MRI With Dense Depth Field Modeling and Localized Self-Adaptation for Chest-Wall Line Detection. *IEEE Transactions on Biomedical Engineering, 66*(6), 1567-1579.
 
 ### FUNCTIONALITY
 This package provides functionality for 3D whole breast segmentation in breast MRI. It supports both sagittal and axial breast MRI data. Currently it requires T1w nonfat-suppressed images for segmentation.
