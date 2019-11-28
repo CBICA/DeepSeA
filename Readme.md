@@ -44,4 +44,4 @@ Example #2 takes much longer than Example #1 to finish due to the finer in-plane
 	
 ### CONTACT
 For bug regporting, etc., please email:
-Dong.Wei@uphs.upenn.edu / Meng-Kang.Hsieh@uphs.upenn.edu
+weidong111624@gmail.com / Dong.Wei@uphs.upenn.edu / Meng-Kang.Hsieh@uphs.upenn.edu
